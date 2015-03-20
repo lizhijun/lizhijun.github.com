@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[进击的菜鸟]]></title>
+  <link href="http://lizhijun.github.io/atom.xml" rel="self"/>
+  <link href="http://lizhijun.github.io/"/>
+  <updated>2015-03-20T10:02:57+08:00</updated>
+  <id>http://lizhijun.github.io/</id>
+  <author>
+    <name><![CDATA[KingLee]]></name>
+    <email><![CDATA[lizhijunx@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[每一次零的突破都值得被记住，开始写博客了]]></title>
+    <link href="http://lizhijun.github.io/blog/2015/03/08/mei-%5B%3F%5D-ci-ling-de-tu-po-du-zhi-de-bei-ji-zhu-,kai-shi-xie-bo-ke-liao/"/>
+    <updated>2015-03-08T07:30:06+08:00</updated>
+    <id>http://lizhijun.github.io/blog/2015/03/08/mei-[?]-ci-ling-de-tu-po-du-zhi-de-bei-ji-zhu-,kai-shi-xie-bo-ke-liao</id>
+    <content type="html"><![CDATA[<p>RT，我要开始写博客记录自己的人生轨迹了。之前没敢写博客是因为我一直处在学习阶段，陆陆续续，前端、服务器端、移动端的开发技术都学到了点皮毛，也亲自实践写过几个DEMO。一直在奔跑，偶尔应该放慢脚本记录点什么，SO，Just Startup&hellip;</p>
+
+<p>Ps. 文笔不好，轻拍^_^</p>
+]]></content>
+  </entry>
+  
+</feed>
